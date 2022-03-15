@@ -1,6 +1,14 @@
 # @proload/plugin-kdl
 
+## 1.0.0
+
+### Patch Changes
+
+- Updated dependencies [ddce5c6]
+  - @proload/core@0.3.0
+
 ## 0.1.1
+
 ### Patch Changes
 
 - dae1cce: Update @proload/core dependency
